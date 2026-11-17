@@ -4,7 +4,9 @@ Catálogo do Buffer Power Cushion FOB (tipos A a F): aplicações por veículo, 
 
 ## Como abrir
 
-Dê dois cliques em `index.html`. Funciona offline, sem servidor e sem internet.
+Online: **https://stremeldev.github.io/Catalogo-NK-Fob/**
+
+No computador: dê dois cliques em `index.html`. Funciona offline, sem servidor e sem internet.
 Para publicar num site, envie a pasta inteira mantendo a mesma estrutura.
 
 ## Estrutura
